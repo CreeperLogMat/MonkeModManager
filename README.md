@@ -4,7 +4,7 @@ This program will install custom mods into Gorilla Tag automatically, and can be
 
 This uses the github api to get the latest release of all these mods, so you know you'll always be getting the latest version!
 
-If you've made a mod that you want added to the installer, submit an issue including the label `Add Mod to Installer`
+If you've made a mod that you want added to the installer, submit an issue including the label `mod addition request`
 
 ## To have your modded added
 Include these details in the issue:
